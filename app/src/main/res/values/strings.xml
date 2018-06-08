@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Etisalat</string>
+    <string name="description">Description:</string>
+    <string name="description_value">Etisalat Misr is a subsidiary of Etisalat group one of the first telecom operators in the world to launch the 4G with total presence in 16 countries across Africa, Middle East and Asia. Etisalat group entered the Egyptian market in May 2007. Etisalat Misr achieved technology leadership by introducing for the first time to the Egyptian market a host of 3.5G services, such as video calling, mobile TV, mobile broadband internet and data services and launched the 4G on 19th September 2017.</string>
+    <string name="address">Address:</string>
+    <string name="adress_value">Down Town, 90th Street, 5th Compound, New Cairo, Egypt</string>
+    <string name="email">Email:</string>
+    <string name="email_value" translatable="false">support@etisalat.eg</string>
+</resources>
